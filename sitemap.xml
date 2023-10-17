@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bowuchuling.github.io/posts/1837iuw7.html</loc>
+    
+    <lastmod>2023-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bowuchuling.github.io/posts/fcr7dhw7.html</loc>
     
     <lastmod>2023-10-17</lastmod>
@@ -229,6 +238,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://bowuchuling.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -247,6 +263,13 @@
   
   <url>
     <loc>https://bowuchuling.github.io/categories/CTF/%E5%87%BA%E9%A2%98%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2023-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bowuchuling.github.io/categories/CTF/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2023-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
