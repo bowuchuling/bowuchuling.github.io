@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bowuchuling.github.io/posts/daili.html</loc>
+    
+    <lastmod>2024-08-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bowuchuling.github.io/posts/chunqiu_Hospital.html</loc>
     
     <lastmod>2024-08-20</lastmod>
@@ -382,7 +391,7 @@
 
   <url>
     <loc>https://bowuchuling.github.io/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -390,42 +399,42 @@
   
   <url>
     <loc>https://bowuchuling.github.io/tags/CTF/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/tags/WP/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/tags/java/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/tags/%E6%B8%97%E9%80%8F/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -434,56 +443,56 @@
   
   <url>
     <loc>https://bowuchuling.github.io/categories/CTF/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/CTF/%E6%AF%94%E8%B5%9BWP/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/CTF/%E5%87%BA%E9%A2%98%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/CTF/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/java/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/java/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/%E6%B8%97%E9%80%8F/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bowuchuling.github.io/categories/%E6%B8%97%E9%80%8F/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2024-08-20</lastmod>
+    <lastmod>2024-08-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
